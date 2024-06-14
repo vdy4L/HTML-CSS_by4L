@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/Open_Sans"
+		},
+		{
+			"path": "../../../Downloads/Roboto"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Html and CSS course_by_me",
+		"liveServer.settings.port": 5501
+	}
+}
